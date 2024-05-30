@@ -1,0 +1,131 @@
+[
+    {
+    "article": 11714,
+    "name": "Hamm HD13VV",
+    "fullName": "Дорожній каток Hamm HD13VV 2016 р. 34,6 кВт. 2381 м/г., № 3875 B",
+    "cost": "23 900 €", 
+    "is": "1",
+    "brend": "Hamm",
+    "model": "HD13VV",
+    "serialNumber": "H2012590",
+    "engine":"2381",
+    "images": "images_goods/voroshilka/10849/img_10849_1.jpg",
+    "description": "Каток б/в HAMM HD13VV, 2016 р/в, з напрацюванням 2381 м/г.",
+    "title_image": "img_stock/katok/11714.png",
+    "age": "2016"
+    }, 
+    {
+    "article": 7557,
+    "name": "Ammann AV95-2 ACE ",
+    "fullName": "Дорожній каток Ammann AV95-2 ACE 2010 р. 63 кВт. 1 627,10 м/г., №2631 L",
+    "cost": "38 000 €", 
+    "is": "1",
+    "brend": "Ammann",
+    "model": "AV95-2",
+    "serialNumber": "107298/0398",
+    "engine":"1627.1",
+    "images": "images_goods/voroshilka/10849/img_10849_1.jpg",
+    "description": "Каток б/у AMMANN AV95-2 ACE, 2010 р/в, напрацювання 1 627,10 м/год. Двигун 63 кВт. Вага 9 485 кг, робоча ширина 1,68 м.",
+    "title_image": "img_stock/katok/7557.png",
+    "age": "2010"
+    },
+     {
+    "article": 8258,
+    "name": "Dynapac CC422C",
+    "fullName": "Дорожній каток Dynapac CC422C 2002 р. 5909 м/г., №2819 L",
+    "cost": "35 000 €", 
+    "is": "1",
+    "brend": "Dynapac",
+    "model": "CC422C",
+    "serialNumber": "626110536",
+    "engine":"5909",
+    "images": "images_goods/voroshilka/10849/img_10849_1.jpg",
+    "description": "Дизельний каток б/в Dynapac CC422C, 2002 р/в, напрацюванням 5909 м/год. Двигун 93 кВт. Вага 9850 кг, рабоча ширина 1.66 м.",
+    "title_image": "img_stock/katok/8258.png",
+    "age": "2002"
+    },
+    
+    {
+    "article": 8822,
+    "name": "Hamm H13i",
+    "fullName": "Дорожній каток Hamm H13i 2016 р. 105 кВт. 1050 м/г., № 2886",
+    "cost": "89 900 €", 
+    "is": "1",
+    "brend": "Hamm",
+    "model": "H13i",
+    "serialNumber": "H2110712",
+    "engine":"1050",
+    "images": "images_goods/voroshilka/10849/img_10849_1.jpg",
+    "description": "Каток б/в HAMM H13i, 2016 р/в, з напрацюванням 1050 м/год. Двигун 105 кВт. Вага 13090 кг, робоча ширина 2,15 м.",
+    "title_image": "img_stock/katok/8822.png",
+    "age": "2016"
+    },
+    
+    {
+    "article": 6707,
+    "name": "HAMM DV70VO",
+    "fullName": "Дорожній каток HAMM DV70VO 2006 р. інв. 2537 L",
+    "cost": "34 000 €", 
+    "is": "1",
+    "brend": "Hamm",
+    "model": "DV70VO",
+    "serialNumber": "H1650160",
+    "engine":"7865",
+    "images": "images_goods/voroshilka/10849/img_10849_1.jpg",
+    "description": "Дизельний каток б/в HAMM DV70VO 2006 р/в. Вага 7 865 кг, робоча ширина 1,5 м.",
+    "title_image": "img_stock/katok/6707.png",
+    "age": "2006"
+    }, 
+    
+    
+    
+    
+    
+    {
+    "article": 8171,
+    "name": "BOMAG BW135AD",
+    "fullName": "Дорожній каток BOMAG BW135AD 2012 р. 1432 м/г., №2794 L",
+    "cost": "24 000 €", 
+    "is": "1",
+    "brend": "BOMAG",
+    "model": "BW135AD",
+    "serialNumber": "101650161468",
+    "engine": "1432",
+    "images": "images_goods/voroshilka/10849/img_10849_1.jpg",
+    "description": "Каток б/у BOMAG BW135AD, 2012 р/в. Двигун 34,5 кВт. Вага в робочому стані 3 900 кг, робоча ширина 1,3 м.",
+    "title_image": "img_stock/katok/8171.png",
+    "age": "2012"
+    },
+     {
+    "article": 7839,
+    "name": "HAMM HD090V",
+    "fullName": "Дорожній каток HAMM HD090V 2009 р. 5805 м/г., №2687 L",
+    "cost": "42 000 €", 
+    "is": "1",
+    "brend":"HAMM",
+    "model": "HD090V",
+    "serialNumber": "H1811430",
+    "engine": "5805",
+    "images": "images_goods/voroshilka/10849/img_10849_1.jpg",
+    "description": "Каток б/в HAMM HD090V, 2009 р/в, з напрацюванням 5805 м/год. Двигун 100 кВт. Вага в робочому стані 9580 кг, робоча ширина 1,68 м. Кондиціонер.",
+    "title_image": "img_stock/katok/7839.png",
+    "age": "2009"
+    },
+    
+    {
+    "article": 7895,
+    "name": "Hamm HD12VV",
+    "fullName": "Дорожній каток Hamm HD12VV 2010 р. № 2721 L",
+    "cost": "20 000 €", 
+    "is": "1",
+    "brend": "Hamm",
+    "model": "HD12VV",
+    "serialNumber": "H2000340",
+    "engine":"5805",
+    "images": "images_goods/voroshilka/10849/img_10849_1.jpg",
+    "description": "Каток б/в HAMM HD12VV, 2010 р/в. Двигун 22,9 кВт. Робоча ширина 1,2 м.",
+    "title_image": "img_stock/katok/7895.png",
+    "age": "2010"
+    }
+    
+    ]

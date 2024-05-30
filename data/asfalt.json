@@ -1,0 +1,79 @@
+
+[
+    {
+    
+            "article": 7832,
+            "name": "Vogele Super 1303-2",
+            "fullName": "Асфальтоукладальник Vogele Super 1303-2 2008 р. 6700 м/г., №2682",
+            "cost": "47 000 €", 
+            "is": "1",
+            "brend": "Vogele",
+            "model": "1303-2",
+            "serialNumber": "09110223",
+            "engine": "6700",
+            "images": "images_goods/tracktors/11441/img_11441_1.jpg",
+            "description": "Дизельний асфальтоукладальник б/в Vogele Super 1303-2 2008 р/в. Двигун 64 кВт. Вага 9900 кг. Ширина укладання 3,4 м.",
+            "title_image": "img_stock/asfalt/7832.png",
+            "age": "2008"
+        }, 
+        {   
+        "article": 9655,
+    "name": "ABG TITAN 226",
+    "fullName": "Асфальтоукладальник ABG TITAN 226 2004 р. 11665,5 м/г., № 2976 R",
+    "cost": "55 000 €", 
+    "is": "1",
+    "brend": "ABG",
+    "model": "ABG226",
+    "serialNumber": "22615343",
+    "engine": "11665.5",
+    "images": "images_goods/tracktors/11441/img_11441_1.png",
+    "description": "Асфальтоукладальник б/в ABG TITAN 226, 2004 р/в. Двигун 129, кВт. Вага 20000 кг.",
+    "title_image": "img_stock/asfalt/9655.png",
+    "age": "2004"
+    },
+    {
+    "article": 12195,
+    "name": "ABG TITAN 2820 Paver",
+    "fullName": "Асфальтоукладальник ABG TITAN 2820 Paver 2006 р. 60 кВт. 10289 м/г., №4092",
+    "cost": "35 000 €", 
+    "is": "1",
+    "brend": "ABG",
+    "model": "ABG2820",
+    "serialNumber": "282018726",
+    "engine": "10289",
+    "images": "images_goods/tracktors/11441/img_11441_1.png",
+    "description": "Асфальтоукладальник б/в ABG TITAN 2820 Paver, 2006 р/в. Двигун 60, кВт. Вага 9500 кг.",
+    "title_image": "img_stock/asfalt/12195.png",
+    "age": "2006"
+    },
+    {
+    "article": 12251,
+    "name": "VOLVO P7820C",
+    "fullName": "Асфальтоукладальник VOLVO P7820C 2011 р. 175 кВт. 11100 м/г., №4098",
+    "cost": "92 000 €", 
+    "is": "1",
+    "brend": "Volvo",
+    "model": "P7820C",
+    "serialNumber": "VCEP782CP0H710002",
+    "engine": "11100",
+    "images": "images_goods/tracktors/11441/img_11441_1.png",
+    "description": "Асфальтоукладальник б/в VOLVO P7820C 2011 р/в. Двигун 175 кВт. Вага 20 800 кг. Ширина укладання 5 м.",
+    "title_image": "img_stock/asfalt/12251.png",
+    "age": "2011"
+    },
+    {
+    "article": 12459,
+    "name": "VOLVO ABG7820B",
+    "fullName": "Асфальтоукладальник VOLVO ABG7820B 2011 р. 13666,5 м/г., №4209",
+    "cost": "79 000 €", 
+    "is": "1",
+    "brend": "Volvo",
+    "model": "ABG7820B",
+    "serialNumber": "VCEP7820L0H701458",
+    "engine": "13666.5",
+    "images": "images_goods/tracktors/11441/img_11441_1.png",
+    "description": "Асфальтоукладальник б/в VOLVO P7820C 2011 р/в. Двигун 175 кВт. Вага 20 800 кг. Ширина укладання 5 м.",
+    "title_image": "img_stock/asfalt/12459.png",
+    "age": "2011"
+    }
+]

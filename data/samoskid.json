@@ -1,0 +1,32 @@
+[
+    {
+    
+            "article": 6367,
+            "name": "JCB 7FT Straight HI VIZ",
+            "fullName": "Міні самоскид JCB 7FT Straight HI VIZ Dumper 2018 р. 634 м/г № 2578 L",
+            "cost": "33 000 €", 
+            "is": "1",
+            "brend": "JCB",
+            "model": "JCB 7FT",
+            "serialNumber": "JCB7TFTRHJ2561208",
+            "engine": "634",
+            "images": "images_goods/tracktors/11441/img_11441_1.jpg",
+            "description": "Дизельний міні-самоскид б/в JCB 7FT Straight HI VIZ Dumper, 2018 р/в, з напрацюванням 634 м/год. Двигун 55 кВт. Вантажопідйомність 7000 кг.",
+            "title_image": "img_stock/samoskid/6367.png",
+            "age": "2018"
+        }, 
+        {   
+    "article": 11256,
+    "name": " Benford PT6000 (6005CTFA)",
+    "fullName": "Міні самоскид Benford PT6000 (6005CTFA) 2007 р. 60 кВт., № 3696 L",
+    "cost": "15 900 €", 
+    "is": "1",
+    "brend": "Benford",
+    "model": "PT6000",
+    "serialNumber": "SLBD1N00E701FW023",
+    "engine": "6000",
+    "images": "images_goods/tracktors/11441/img_11441_1.png",
+    "description": "Дизельний самоскид б/в Benford PT6000 (6005CTFA), 2007 р/в. Двигун 60 кВт. Вантажопідйомність 6000 кг. Шини 16,0/70R20.",
+    "title_image": "img_stock/samoskid/11256.png",
+    "age": "2007"
+    }]
